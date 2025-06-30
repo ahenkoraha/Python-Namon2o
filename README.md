@@ -37,10 +37,11 @@ Each notebook introduces a core programming concept, using practical and cultura
 
 > Located in the `Beginner/` folder
 
-| 🧩 Module                    | Topic                                                                          | Description                                                                   |
-| ---------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 📍 1. Introduction           | [`Beginner/module_1_introduction.ipynb`](Beginner/module_1_introduction.ipynb) | What is Python? How do Jupyter Notebooks work? Print your first line of code. |
-| 🧮 2. Variables & Data Types | [`Beginner/module_2_variables.ipynb`](Beginner/module_2_variables.ipynb)       | Use market prices and item names to explore values and types.                 |
+| 🧩 Module                                | Topic                                                                               | Description                                                                   |
+| ---------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 📍 1. Introduction                       | [`Beginner/module_1_introduction.ipynb`](Beginner/module_1_introduction.ipynb)      | What is Python? How do Jupyter Notebooks work? Print your first line of code. |
+| 🧮 2. Variables & Data Types             | [`Beginner/module_2_variables.ipynb`](Beginner/module_2_variables.ipynb)            | Use market prices and item names to explore values and types.                 |
+| 🔀 3. Making Decisions with Conditionals | [`Beginner/module_3_conditionals.ipynb`](Beginner/module_3_conditionals_ampe.ipynb) | Model the traditional Ghanaian _Ampe_ game using `if-else`.                   |
 
 ---
 
