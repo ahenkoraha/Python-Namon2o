@@ -37,15 +37,15 @@ Each notebook introduces a core programming concept, using practical and cultura
 
 > Located in the `Beginner/` folder
 
-| 🧩 Module                                | Topic                                                                          | Description                                                                   |
-| ---------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 📍 1. Introduction                       | [`Beginner/module_1_introduction.ipynb`](Beginner/module_1_introduction.ipynb) | What is Python? How do Jupyter Notebooks work? Print your first line of code. |
-| 🧮 2. Variables & Data Types             | [`Beginner/module_2_variables.ipynb`](Beginner/module_2_variables.ipynb)       | Use market prices and item names to explore values and types.                 |
-| 🔀 3. Making Decisions with Conditionals | [`Beginner/module_3_conditionals.ipynb`](Beginner/module_3_conditionals.ipynb) | Model the traditional Ghanaian _Ampe_ game using `if-else`.                   |
-| 🔁 4. Let's Loop It                      | [`Beginner/module_4_loops.ipynb`](Beginner/module_4_loops.ipynb)               | Learn loops through Ghanaian _Ampe_ game tournament.                          |
-| 🍲 5. Functions in the Kitchen           | [`Beginner/module_5_functions.ipynb`](Beginner/module_5_functions.ipynb)       | Learn functions through Ghanaian cooking.                                     |
-| 🧺 6. Lists for Daily Life               | [`Beginner/module_6_lists.ipynb`](Beginner/module_6_lists.ipynb)               | Learn lists through daily life - from the supermarket.                        |
-| 🚌 7. Mini project                       | [`Beginner/module_7_mini_project.ipynb`](Beginner/module_7_mini_project.ipynb) | Practice through Ghanaian trotro system.                                      |
+| 🧩 Module                                | Topic                                                                                              | Description                                                                   |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 📍 1. Introduction                       | [`Notebooks/Beginner/module_1_introduction.ipynb`](Beginner/module_1_introduction.ipynb)           | What is Python? How do Jupyter Notebooks work? Print your first line of code. |
+| 🧮 2. Variables & Data Types             | [`Notebooks/Beginner/module_2_variables.ipynb`](Notebooks/Beginner/module_2_variables.ipynb)       | Use market prices and item names to explore values and types.                 |
+| 🔀 3. Making Decisions with Conditionals | [`Notebooks/Beginner/module_3_conditionals.ipynb`](Notebooks/Beginner/module_3_conditionals.ipynb) | Model the traditional Ghanaian _Ampe_ game using `if-else`.                   |
+| 🔁 4. Let's Loop It                      | [`Notebooks/Beginner/module_4_loops.ipynb`]Notebooks/(Beginner/module_4_loops.ipynb)               | Learn loops through Ghanaian _Ampe_ game tournament.                          |
+| 🍲 5. Functions in the Kitchen           | [`Notebooks/Beginner/module_5_functions.ipynb`](Notebooks/Beginner/module_5_functions.ipynb)       | Learn functions through Ghanaian cooking.                                     |
+| 🧺 6. Lists for Daily Life               | [`Notebooks/Beginner/module_6_lists.ipynb`](Notebooks/Beginner/module_6_lists.ipynb)               | Learn lists through daily life - from the supermarket.                        |
+| 🚌 7. Mini project                       | [`Notebooks/Beginner/module_7_mini_project.ipynb`](Notebooks/Beginner/module_7_mini_project.ipynb) | Practice through Ghanaian trotro system.                                      |
 
 ---
 
